@@ -13,17 +13,17 @@ Ingeniera en Software orientada al análisis de datos, con sólida base en SQL, 
 ### Aplicativo web con LLM (Tesis de Ingeniería)
 - **Rol / Enfoque:** Diseñadora e implementadora principal de arquitectura RAG.
 - **Tecnologías:** Python, Flask, PostgreSQL (pgvector), TinyLlama, JWT, D3.js.
-- **Descripción:** Aplicativo web especializado en la gestión de conocimiento científico sobre compuestos fenólicos del banano[cite: 1]. Diseño de base de conocimiento vectorial, procesamiento de datos no estructurados y desarrollo de un dashboard interactivo de KPIs para monitoreo en tiempo real[cite: 1].
+- **Descripción:** Aplicativo web especializado en la gestión de conocimiento científico sobre compuestos fenólicos del banano. Diseño de base de conocimiento vectorial, procesamiento de datos no estructurados y desarrollo de un dashboard interactivo de KPIs para monitoreo en tiempo real.
 
 ### Hackathon Tech for Green - UNEMI (3.er Lugar Nacional)
 - **Rol:** Frontend Developer.
 - **Tecnologías:** Django, D3.js, JavaScript, Jira, Git.
-- **Descripción:** Desarrollo de una aplicación web interactiva e informativa orientada a la sostenibilidad[cite: 1]. Implementación de interfaces de visualización de datos y gestión ágil del proyecto en equipo multidisciplinario[cite: 1, 2].
+- **Descripción:** Desarrollo de una aplicación web interactiva e informativa orientada a la sostenibilidad. Implementación de interfaces de visualización de datos y gestión ágil del proyecto en equipo multidisciplinario.
 
 ### Solución Web para MIPYMES (InnovaILAB - UNEMI)
 - **Rol:** Diseñadora UX/UI y Frontend Developer.
 - **Tecnologías:** Figma, HTML5, CSS3, JavaScript.
-- **Descripción:** Prototipado y desarrollo de interfaces centradas en el usuario para soluciones comerciales dirigidas a la pequeña y mediana empresa[cite: 2].
+- **Descripción:** Prototipado y desarrollo de interfaces centradas en el usuario para soluciones comerciales dirigidas a la pequeña y mediana empresa.
 
 ## Pila técnica
 
