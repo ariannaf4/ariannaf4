@@ -8,6 +8,16 @@ Ingeniera en Software orientada al análisis de datos, con sólida base en SQL, 
 - 🔗 LinkedIn: [linkedin.com/in/arianna-zuñiga](https://linkedin.com)
 - 📍 Ubicación: Milagro, Ecuador
 
+## Stack Técnico
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Análisis de Datos & BI** | SQL Server, PostgreSQL (pgvector), Excel, Power BI (en formación), Análisis Exploratorio |
+| **Lenguajes** | Python, SQL, JavaScript, HTML5, CSS3 |
+| **IA & Datos** | Arquitecturas RAG, Modelos LLM (TinyLlama), D3.js |
+| **Frameworks & Librerías** | Flask, Django, React.js, Vue.js, Bootstrap |
+| **Herramientas & DevOps** | Git, GitHub, Jira, Docker, Figma |
+
 ## Proyectos clave
 
 ### Aplicativo web con LLM (Tesis de Ingeniería)
@@ -26,17 +36,6 @@ Ingeniera en Software orientada al análisis de datos, con sólida base en SQL, 
 - **Tecnologías:** Figma, HTML5, CSS3, JavaScript.
 - **Descripción:** Prototipado y desarrollo de interfaces centradas en el usuario para soluciones comerciales dirigidas a la pequeña y mediana empresa.
 
-## Stack Técnico
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Análisis de Datos & BI** | SQL Server, PostgreSQL (pgvector), Excel, Power BI (en formación), Análisis Exploratorio |
-| **Lenguajes** | Python, SQL, JavaScript, HTML5, CSS3 |
-| **IA & Datos** | Arquitecturas RAG, Modelos LLM (TinyLlama), D3.js |
-| **Frameworks & Librerías** | Flask, Django, React.js, Vue.js, Bootstrap |
-| **Herramientas & DevOps** | Git, GitHub, Jira, Docker, Figma |
 
-## Filosofía de la ingeniería
-- **Orientación al dato:** Transformar información compleja en métricas y paneles visuales claros para la toma de decisiones.
-- **Innovación aplicada:** Integración eficiente de tecnologías emergentes como Inteligencia Artificial y modelos de lenguaje en soluciones reales.
-- **Aprendizaje continuo:** Adaptación rápida a nuevas herramientas y metodologías para superar retos técnicos bajo presión.
+
